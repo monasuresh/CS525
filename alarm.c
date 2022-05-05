@@ -1,4 +1,6 @@
-/*  
+/*Author: Monica Suresh
+  Date: 4/10/2022
+  Course: CS 525
   Assignment: Programming Assignment 5
   Description: This program simulates an alarm clock. It forks a process. The re
   process waits for 5 seconds before sending a SIGALRM signal to the parent. The
